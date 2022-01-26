@@ -2,7 +2,7 @@
 #include<algorithm>
 #include<vector>
 #include <map>
-#include<windows.h>
+//#include<windows.h>
 
 #include <SDL.h>
 #undef main
